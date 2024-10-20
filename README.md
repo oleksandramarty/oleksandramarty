@@ -1,15 +1,9 @@
-# 💫 About Me:
-👋 About Me<br>Hello! I'm Oleksandr Martynin, a passionate Software Development Engineer with extensive experience in full-stack development, focusing on C#, .NET, and Angular technologies. I have successfully contributed to projects across fintech, real estate, and e-commerce domains, consistently delivering high-quality solutions that optimize performance, enhance functionality, and streamline processes.<br><br>🚀 Experience<br>Senior Customer Application Engineer at Ivalua, where I configure and customize solutions using C# and SQL, manage customer relationships, and develop tools that simplify migration processes and increase efficiency.<br>Software Development Engineer at Amdaris, where I led the migration of projects from AngularJS to Angular, optimized databases, and developed B2B applications to enhance system communications.<br>Team Lead at Nabix, where I architected fintech solutions, led development teams, and managed client relationships while implementing key features like .NET Core, PostgreSQL, SignalR, and Hangfire.<br>Full Stack Developer at IT-TREND, where I ensured seamless operation for e-commerce and production tracking projects, delivering dynamic web applications using .NET Core, JavaScript, and Angular.<br>💻 My Projects<br>Angular Phone Helper<br>A utility library for formatting phone numbers in Angular 17 applications, supporting 188 countries and international formats. It provides flexible pipe formatting and country-specific configurations. Example usages include:<br>html<br>The package supports both HTML templates and TypeScript usage and allows the creation of custom country formats and phone validation with powerful configuration options.<br>Personal Budget Planning App<br>A web app built to help users plan their budget efficiently. The app allows users to set up income, expenses, and savings goals with visual representation through charts and graphs. Built with Angular and .NET Core, it provides a smooth and intuitive user experience for managing personal finances.<br>💡 Skills & Tools<br>Programming Languages & Frameworks:<br>C#, .NET Core, .NET Framework, TypeScript, JavaScript, Angular, AngularJS, RxJS, NgRX, HTML, CSS, SCSS<br><br>Database Technologies:<br>SQL, T-SQL, PostgreSQL, SQL Profiler, AWS DynamoDB, MongoDB, Redis<br><br>Other Technologies:<br>Docker, Elasticsearch, RabbitMQ, Hangfire, SignalR, MinIO, Aspose, DocuSign, Apache Kafka<br><br>Development Practices:<br>Integration Tests, Unit Tests, REST API, OpenAPI, SOAP, GraphQL, JWT, ETL<br><br>🎓 Education<br>Master of Specialized Computer Systems – Odessa National Polytechnic University<br>Bachelor of Systems Engineering – Odessa National Polytechnic University<br>🎯 Certifications<br>AWS SkillBuilder<br>Udemy: Angular, .NET, Cloud Development<br>LinkedIn Learning: Various Software Development Courses<br>🌐 Languages<br>English, Ukrainian, Russian
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/oleksandr-martynin)
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white)](https://www.npmjs.com/~amarty)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/oleksandramartycv/)
 
-
-# 💻 Tech Stack:
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -56,16 +50,31 @@
 ![ETL](https://img.shields.io/badge/ETL-8C8C8C?style=for-the-badge&logo=etl&logoColor=white) 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=oleksandramarty&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=oleksandramarty&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oleksandramarty&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 👋 About Me
+<br>Hello! I'm Oleksandr Martynin, a passionate Software Development Engineer with extensive experience in full-stack development, focusing on C#, .NET, and Angular technologies. I have successfully contributed to projects across fintech, real estate, and e-commerce domains, consistently delivering high-quality solutions that optimize performance, enhance functionality, and streamline processes.<br>
+### 💻 My Projects
+#### Angular Phone Helper
+A utility NPM library for formatting phone numbers in Angular 17 applications, supporting 188 countries and international formats. It provides flexible pipe formatting and country-specific configurations. Example usages include:<br>html<br>The package supports both HTML templates and TypeScript usage and allows the creation of custom country formats and phone validation with powerful configuration options.
+#### Personal Budget Planning App
+A web app built to help users plan their budget efficiently. The app allows users to set up income, expenses, and savings goals with visual representation through charts and graphs. Built with Angular and .NET Core, it provides a smooth and intuitive user experience for managing personal finances.<br>
+### 🎓 Education
+<br>Master of Specialized Computer Systems – Odessa National Polytechnic University<br>Bachelor of Systems Engineering – Odessa National Polytechnic University<br>
+### 🎯 Certifications
+AWS SkillBuilder<br>Udemy<br>LinkedIn Learnings<br>
+
+## 🌐 Languages
+English, Ukrainian, Russian
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=oleksandramarty&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=oleksandramarty&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=oleksandramarty&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=oleksandramarty&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=oleksandramarty&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=oleksandramarty&icon=0&color=0)](https://visitcount.itsvg.in)
