@@ -21,7 +21,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Apollo GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![OpenAPI](https://img.shields.io/badge/OpenAPI-6C757D?style=for-the-badge&logo=OpenAPI&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Shell Script](https://img.shields.io/badge/Shell-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### 🏗️ Architecture  
-`Microservices` `Microfrontends` `Webpack` `Module Federation`
+`Microservices` `Microfrontends` `Webpack` `Module Federation` `i18n`
 
 ### ✅ Testing  
 `Integration Tests` `Unit Tests`
@@ -41,10 +41,10 @@ I value open communication, trust, and responsibility in engineering culture. My
 
 ### 💻 My Projects
 #### JobPathfinder – Microservices & Microfrontends Platform  
-A career tracking platform designed to help users manage their job search process. Built with a microservices architecture using C#, .NET, and AWS, it allows users to register, update profiles (skills, experience), and track job applications. The front end is powered by microfrontends using Angular and React. Key features include analytics, interview progress tracking, and a karma system based on hiring behavior.
+A career tracking platform designed to help users manage their job search process. Built with a microservices architecture using C#, .NET, and AWS, it allows users to register, update profiles (skills, experience), and track job applications. The front end is powered by microfrontends using Angular and React. The platform supports internationalization (i18n) with multilingual content, providing a localized user experience for global audiences. Key features include analytics, interview progress tracking, and a karma system based on hiring behavior.
 
 **Tech Highlights:**  
-Microservices, Microfrontends, C#, .NET, Angular, React, AWS, DynamoDB, Redis, Kafka, GraphQL, Entity Framework, Integration Tests, Unit Tests, OpenAPI, JWT
+Microservices, Microfrontends, C#, .NET, Angular, React, AWS, DynamoDB, Redis, Kafka, GraphQL, Entity Framework, Integration Tests, Unit Tests, OpenAPI, JWT, i18n
 
 #### Angular Phone Helper  
 A utility NPM library for formatting phone numbers in Angular 17 applications, supporting 188 countries and international formats. It provides flexible pipe formatting and country-specific configurations. Example usages include:<br>html<br>The package supports both HTML templates and TypeScript usage and allows the creation of custom country formats and phone validation with powerful configuration options.
